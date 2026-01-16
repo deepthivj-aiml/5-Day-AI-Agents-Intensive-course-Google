@@ -1,6 +1,8 @@
 Capstone project:
  Kaggle- Google – 5-Day AI Agents Intensive Course
 
+ code: https://github.com/deepthivj-aiml/5-Day-AI-Agents-Intensive-course-Google/blob/main/Copy_of_Fork_of_AutoEvalAI_AI_Powered_Second_Hand_Vehicle.ipynb
+
 𝗨𝘀𝗲𝗱 𝗰𝗮𝗿 𝗜𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗔𝗴𝗲𝗻𝘁🚗🔍
 
 For my capstone project during the Google AI Agents Intensive, I built a Used Car Multi-Part Inspection Agent. The goal was to enable people to analyze second-hand cars before purchasing, especially those without the technical knowledge.
