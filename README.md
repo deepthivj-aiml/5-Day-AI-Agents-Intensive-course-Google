@@ -1,4 +1,4 @@
-<img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/b52d07ea-f593-4844-bd13-42709f54d17d" />Capstone project:
+Capstone project:
  Kaggle- Google – 5-Day AI Agents Intensive Course
 
 𝗨𝘀𝗲𝗱 𝗰𝗮𝗿 𝗜𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻 𝗔𝗴𝗲𝗻𝘁🚗🔍
